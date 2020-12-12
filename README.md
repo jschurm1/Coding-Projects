@@ -1,12 +1,6 @@
 # CSE687_Project
 CSE687 John Schurman
 
-TestHarness<br />
--Contains three files <br />
-  -TestHarness.h        (Contains TestHarness Class Definition) <br />
-  -TestHarness.cpp      (Defines implementation for TestHarness Class) <br />
-  -TestHarness_Test.cpp (Defines functions and test methods for test Harness class) <br />
-  
 Local TestHarness<br />
 -Contains 5 projects <br />
   -Executive      (Run this project, demonstrates TestHarness capability) <br />
