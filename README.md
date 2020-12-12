@@ -1,5 +1,5 @@
 # CSE687_Project
-CSE687 Terence Lau + John Schurman
+CSE687 John Schurman
 
 TestHarness<br />
 -Contains three files <br />
